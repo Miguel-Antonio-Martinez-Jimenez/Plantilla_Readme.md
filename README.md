@@ -56,6 +56,7 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
 **Posibles Estados del Proyecto**
 - `Inicios`: El proyecto está en sus etapas iniciales de planificación y desarrollo. Apenas se están definiendo los requisitos y comenzando la implementación básica.
 - `En Desarrollo`: El proyecto está en plena fase de desarrollo, con funcionalidades siendo añadidas y pruebas en curso. Puede contener errores o estar sujeto a cambios importantes.
+- `En Pausa`: El proyecto ha sido temporalmente detenido. Puede ser reanudado en el futuro, pero no está recibiendo desarrollo activo ni mantenimiento en este momento. Es una pausa planificada, generalmente debido a cambios de prioridad, falta de recursos o decisiones pendientes.
 - `Finalizado`: El proyecto ha alcanzado sus objetivos iniciales, con todas las funcionalidades implementadas y probadas. Puede recibir mantenimiento o mejoras menores.
 - `Mantenimiento`: El proyecto está completo, pero sigue recibiendo actualizaciones menores, corrección de errores o mejoras en la documentación y el rendimiento.
 - `Abandonado`: El desarrollo ha sido detenido y no se planean futuras actualizaciones ni mantenimiento.
@@ -70,4 +71,3 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-#
