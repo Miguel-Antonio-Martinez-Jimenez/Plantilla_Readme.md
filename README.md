@@ -1,4 +1,7 @@
+<div align="center">
+
 # Nombre del Proyecto
+</div>
 
 ### Descripción
 Explica en detalle el propósito del proyecto, los problemas que resuelve y el público objetivo al que está dirigido. 
@@ -12,15 +15,11 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
 2. Explica funcionalidades destacadas.
 3. Describe cualquier característica adicional que sea relevante.
 
-## Tecnologías Utilizadas
-- **Lenguajes/Frameworks:** [Lista de tecnologías como React, Node.js, etc.]
-- **Base de Datos:** [MySQL, MongoDB, etc.]
-- **Herramientas de Desarrollo:** [XAMPP, Docker, etc.]
-- **Otros:** [Librerías, APIs, etc.]
-
 ## Requisitos
 - **Requisito 1:** Explica qué software o configuraciones se necesitan.
 - **Requisito 2:** [Por ejemplo, versiones específicas de herramientas.]
+> [!Important]
+> Es importante asegurarse de que todos los requisitos estén instalados y configurados correctamente antes de ejecutar este proyecto para evitar problemas y asegurar un funcionamiento óptimo.
 
 ## Guía de Instalación
 - Instrucciones paso a paso para instalar y configurar el proyecto localmente.
@@ -49,12 +48,8 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
 │── README.md
 │── .env.example
 
-## Contribuciónes
-> [!Tip]
-> Si deseas contribuir al proyecto, reportar errores o proponer mejoras, te invitamos a abrir un pull request o issue en el repositorio. También puedes contactarme directamente para compartir tus ideas o sugerencias a través de mi correo electrónico tu_correo_electronico@ejemplo.com. ¡Toda colaboración es bienvenida!
-
 ## Estado del Proyecto
-**Estado Actual:** `Aqui va el estado del proyecto`
+**Estado Actual**: `Aqui va el estado del proyecto`
 > [!Note]
 > Este proyecto se encuentra en estado **Aqui va el estado del proyecto**, lo que significa que **_Aqui Va la descripcion del estado del proyecto_**
 
@@ -64,6 +59,10 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
 - `Finalizado`: El proyecto ha alcanzado sus objetivos iniciales, con todas las funcionalidades implementadas y probadas. Puede recibir mantenimiento o mejoras menores.
 - `Mantenimiento`: El proyecto está completo, pero sigue recibiendo actualizaciones menores, corrección de errores o mejoras en la documentación y el rendimiento.
 - `Abandonado`: El desarrollo ha sido detenido y no se planean futuras actualizaciones ni mantenimiento.
+
+## Contribuciónes
+> [!Tip]
+> Si deseas contribuir al proyecto, reportar errores o proponer mejoras, te invitamos a abrir un pull request o issue en el repositorio. También puedes contactarme directamente para compartir tus ideas o sugerencias a través de mi correo electrónico tu_correo_electronico@ejemplo.com. ¡Toda colaboración es bienvenida!
 
 ## Autores
 **Tu Nombre**: LinkedIn | GitHub
