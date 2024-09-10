@@ -28,8 +28,8 @@ Explica en detalle el propósito del proyecto, los problemas que resuelve y el p
   git clone https://github.com/tu-usuario/tu-proyecto.git
 
 ## Accesos o Credenciales
-- **Usuario de prueba**: prueba@ejemplo.com
-- **Contraseña de prueba**: contraseña123
+- **Usuario de prueba**: prueba@devdarksonic.com
+- **Contraseña de prueba**: Devdarksonic123
 
 ## Guía de Uso del Proyecto
 - Inicia sesión con las credenciales proporcionadas.
